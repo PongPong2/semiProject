@@ -1,0 +1,32 @@
+[
+    {
+        "rank": 1,
+        "title": "사건의 지평선",
+        "artist": "윤하",
+        "albumArtUrl": "https://via.placeholder.com/50"
+    },
+    {
+        "rank": 2,
+        "title": "Hype Boy",
+        "artist": "NewJeans",
+        "albumArtUrl": "https://via.placeholder.com/50"
+    },
+    {
+        "rank": 3,
+        "title": "Ditto",
+        "artist": "NewJeans",
+        "albumArtUrl": "https://via.placeholder.com/50"
+    },
+    {
+        "rank": 4,
+        "title": "After LIKE",
+        "artist": "IVE (아이브)",
+        "albumArtUrl": "https://via.placeholder.com/50"
+    },
+    {
+        "rank": 5,
+        "title": "Nxde",
+        "artist": "(여자)아이들",
+        "albumArtUrl": "https://via.placeholder.com/50"
+    }
+]
