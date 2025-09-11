@@ -1,4 +1,5 @@
-![venom](https://capsule-render.vercel.app/api?type=venom&height=100&text=Semi%Project&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+![venom](https://capsule-render.vercel.app/api?type=venom&height=100&text=Semi%20Project&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
+
 <P align="center" > 프로젝트 이름 : Music Chart Site </P>
 <p align="center" > 프로젝트 목적 : 음원차트 API를 활용하여 사용자 친화적인 음원차트 웹사이트 구축</p>
 <p align="center" > 프로젝트 목표 : React.js + Node.js(Express.js) + MySQL 이해 및 복습</p>
