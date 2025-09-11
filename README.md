@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300§ion=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300§ion=header&text=SemiProject%20render&fontSize=90)
 
 <P align="center"> 프로젝트 소개 : 음원차트 사이트 </P>
 <p align="center"> 프로젝트 목적 : 음원차트 API를 활용하여 사용자 친화적인 음원차트 웹사이트 구축</p>
