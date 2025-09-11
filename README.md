@@ -1,10 +1,8 @@
-
-
-<h1 align="center"> 1. 프로젝트 소개 </h1>
-
-<P align="center" > Music Chart Site </P>
-<p align="center" display=" inline" style="color:"skyblue"> 프로젝트 목적 : <P>음원차트 API를 활용하여 사용자 친화적인 음원차트 웹사이트 구축</P></p>
-<p align="center" display=" inline" style="color:"skyblue"> 프로젝트 목표 : <p>React.js + Node.js(Express.js) + MySQL 이해 및 복습</p></p>
+![venom](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20Venom.&fontSize=70&text=SemiProject&color=0:8871e5,100:b678c4&stroke=b678c4)
+<P align="center" > 프로젝트 이름 : Music Chart Site </P>
+<p align="center" > 프로젝트 목적 : 음원차트 API를 활용하여 사용자 친화적인 음원차트 웹사이트 구축</p>
+<p align="center" > 프로젝트 목표 : React.js + Node.js(Express.js) + MySQL 이해 및 복습</p>
+<p align="center" > 팀원 : 황이솔, 박승진, 윤종수</p>
 
 <h2 align="center"> 🧑🏻‍💻Stacks🧑🏻‍💻 </h2>
 
