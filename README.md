@@ -2,10 +2,14 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=100&text=Music%20Chart%20Site&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4">
 </p>
 
-<P align="center" > 프로젝트 이름 : Music Chart Site </P>
-<p align="center" > 프로젝트 목적 : 음원차트 API를 활용하여 사용자 친화적인 음원차트 웹사이트 구축</p>
-<p align="center" > 프로젝트 목표 : React.js + Node.js(Express.js) + MySQL 이해 및 복습</p>
-<p align="center" > 팀원 : 황이솔, 박승진, 윤종수</p>
+<h2 align="center">프로젝트 목적</h2>
+<p align="center" > • 음원차트 API를 활용하여 사용자 친화적인 음원차트 웹사이트 구축</p>
+
+<h2 align="center">프로젝트 목표</h2>
+<p align="center" > • React.js + Node.js(Express.js) + MySQL 이해 및 복습</p>
+
+<h2 align="center">팀원</h2>
+<p align="center" > • 황이솔, 박승진, 윤종수</p>
 
 <h2 align="center"> 🧑🏻‍💻Stacks🧑🏻‍💻 </h2>
 
