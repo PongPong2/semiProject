@@ -1,15 +1,12 @@
 
-<div align="center">
-  <img src="https://your-logo-url.com/logo.png" alt="Project Logo" width="150">
-</div>
 
-<h1 align="center> 1. 프로젝트 소개 </h1>
+<h1 align="center"> 1. 프로젝트 소개 </h1>
 
-<P align="center"> 음원차트 사이트 </P>
-<p align="center"> 프로젝트 목적 : 음원차트 API를 활용하여 사용자 친화적인 음원차트 웹사이트 구축</p>
-<p align="center"> 프로젝트 목표 : React.js + Node.js(Express.js) + MySQL 이해 및 복습</p>
+<P align="center"> Music Chart Site </P>
+<p align="center" style="color:"skyblue"> 프로젝트 목적 : <P>음원차트 API를 활용하여 사용자 친화적인 음원차트 웹사이트 구축</P></p>
+<p align="center"> 프로젝트 목표 : <p>React.js + Node.js(Express.js) + MySQL 이해 및 복습</p></p>
 
-<h2 align="center"> 2. Stacks </h2>
+<h2 align="center"> 🧑🏻‍💻Stacks🧑🏻‍💻 </h2>
 
 <p align="center" display=" inline">
 <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
