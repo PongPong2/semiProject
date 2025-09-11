@@ -18,10 +18,10 @@
 
 
 <h2 align="center">UI</h2>
-<img width="500" height="500" alt="mainView" src="https://github.com/user-attachments/assets/4d959266-8f9e-4d14-8c04-4c4fb4c34a45" />
+<img width="700" height="500" alt="mainView" src="https://github.com/user-attachments/assets/4d959266-8f9e-4d14-8c04-4c4fb4c34a45" />
 <img width="500" height="400" alt="Login" src="https://github.com/user-attachments/assets/bdc8acd3-e300-4f61-8529-49a315d05d25" />
 <img width="500" height="400" alt="SignUp" src="https://github.com/user-attachments/assets/df20ec28-4830-4a26-8dac-8ef9c427f366" />
-<img width="500" height="500" alt="Image" src="https://github.com/user-attachments/assets/18fe68cf-bd57-40d3-afd8-e0edcbdd778a" />
+<img width="700" height="500" alt="Image" src="https://github.com/user-attachments/assets/18fe68cf-bd57-40d3-afd8-e0edcbdd778a" />
 
 
 <h2 align="center"> 🧑🏻‍💻Stacks🧑🏻‍💻 </h2>
