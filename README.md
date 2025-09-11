@@ -6,7 +6,11 @@
 <p align="center" > • 음원차트 API를 활용하여 사용자 친화적인 음원차트 웹사이트 구축</p>
 
 <h2 align="center">프로젝트 목표</h2>
+<p align="center" > • 음원 순위 정보 기능 구현</p>
+<p align="center" > • 랜덤 음원 추천 기능 구현</p>
+<p align="center" > • 음원 좋아요 기능 구현</p>
 <p align="center" > • React.js + Node.js(Express.js) + MySQL 이해 및 복습</p>
+
 
 <h2 align="center">팀원</h2>
 <p align="center" > • 황이솔, 박승진, 윤종수</p>
