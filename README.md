@@ -1,7 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300§ion=header&text=SemiProject%20&fontSize=90)
 
-<P align="center"> 프로젝트 소개 : 음원차트 사이트 </P>
+<h1 align="center> 1. 프로젝트 소개 </h1>
+<P align="center"> 음원차트 사이트 </P>
 <p align="center"> 프로젝트 목적 : 음원차트 API를 활용하여 사용자 친화적인 음원차트 웹사이트 구축</p>
 <p align="center"> 프로젝트 목표 : React.js + Node.js(Express.js) + MySQL 이해 및 복습</p>
 
