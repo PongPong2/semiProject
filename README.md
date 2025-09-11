@@ -1,5 +1,7 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300§ion=header&text=SemiProject%20&fontSize=90)
+<div align="center">
+  <img src="https://your-logo-url.com/logo.png" alt="Project Logo" width="150">
+</div>
 
 <h1 align="center> 1. 프로젝트 소개 </h1>
 
