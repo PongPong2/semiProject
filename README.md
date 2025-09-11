@@ -2,9 +2,9 @@
 
 <h1 align="center"> 1. 프로젝트 소개 </h1>
 
-<P align="center"> Music Chart Site </P>
-<p align="center" style="color:"skyblue"> 프로젝트 목적 : <P>음원차트 API를 활용하여 사용자 친화적인 음원차트 웹사이트 구축</P></p>
-<p align="center"> 프로젝트 목표 : <p>React.js + Node.js(Express.js) + MySQL 이해 및 복습</p></p>
+<P align="center" > Music Chart Site </P>
+<p align="center" display=" inline" style="color:"skyblue"> 프로젝트 목적 : <P>음원차트 API를 활용하여 사용자 친화적인 음원차트 웹사이트 구축</P></p>
+<p align="center" display=" inline" style="color:"skyblue"> 프로젝트 목표 : <p>React.js + Node.js(Express.js) + MySQL 이해 및 복습</p></p>
 
 <h2 align="center"> 🧑🏻‍💻Stacks🧑🏻‍💻 </h2>
 
