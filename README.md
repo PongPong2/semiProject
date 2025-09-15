@@ -13,7 +13,7 @@
 
 
 <h2 align="center">팀원</h2>
-<p align="center" > • [황이솔], [박승진], 윤종수</p>
+<p align="center" > • 황이솔, 박승진, 윤종수</p>
 
 
 <h2 align="center">UI</h2>
@@ -39,6 +39,8 @@
 <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-[박승진] : (https://github.com/jamonda1)
-[황이솔] : (https://github.com/yisol03)
+<p align="center" >
+  [박승진] : (https://github.com/jamonda1)
+  [황이솔] : (https://github.com/yisol03)
+</p>
 
