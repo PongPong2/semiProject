@@ -39,7 +39,6 @@
 <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-[박승진]: <https://github.com/jamonda1>
-[윤종수]: <https://github.com/PongPong2>
-[황이솔]: <https://github.com/yisol03>
+[박승진]: <a href:"https://github.com/jamonda1"/>
+[황이솔]: <a href:"https://github.com/yisol03"/>
 
