@@ -13,7 +13,7 @@
 
 
 <h2 align="center">팀원</h2>
-<p align="center" > • 황이솔, 박승진, 윤종수</p>
+<p align="center" > • [황이솔], [박승진], 윤종수</p>
 
 
 <h2 align="center">UI</h2>
