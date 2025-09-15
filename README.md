@@ -40,7 +40,7 @@
 </p>
 
 <p align="center" >
-  박승진 : (https://github.com/jamonda1)
-  황이솔 : (https://github.com/yisol03)
+  <a href="https://github.com/jamonda1">박승진</a>
+  <a href="https://github.com/yisol03">황이솔</a>
 </p>
 
