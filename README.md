@@ -13,7 +13,11 @@
 
 
 <h2 align="center">팀원</h2>
-<p align="center" > • 황이솔, 박승진, 윤종수</p>
+<p align="center" >
+  <a href="https://github.com/jamonda1">박승진</a>
+  <a href="https://github.com/yisol03">황이솔</a>
+  <a href="https://github.com/PongPong2">윤종수</a>
+</p>
 
 
 <h2 align="center">UI</h2>
@@ -37,10 +41,5 @@
 <img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img src = "https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img src = "https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
-
-<p align="center" >
-  <a href="https://github.com/jamonda1">박승진</a>
-  <a href="https://github.com/yisol03">황이솔</a>
 </p>
 
